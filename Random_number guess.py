@@ -1,6 +1,6 @@
 #generate random number and see how many times the user gets it 
 import random
-from re import L
+
 
 top_of_range=input("Type a number: ")
 
